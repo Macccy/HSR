@@ -4,6 +4,21 @@
 
 流程對齊 `HH_extraction_guide.md`（同資料夾內，由 `yao guang` 複製）。
 
+## 目前資料的來源（截至本頁所描述之流程）
+
+| 資料／檔案 | 主要來源 | 補充 |
+|------------|----------|------|
+| 角色頁 URL、`link.txt` | [Gachabase](https://hsr.gachabase.net) 公開角色頁（英文 beta 路徑） | 與官方不一定同步，僅供對照與下載流程 |
+| **基礎屬性**（HP／ATK／DEF／SPD 等）、**overview** 摘要 | `skill_viewer` 從 **Gachabase 靜態 HTML** 解析 | 與「載入角色資料」同一套規則 |
+| **星魂**（Eidolons 名稱／敘述） | 同上，Gachabase 頁面文字 | |
+| **A/B/C tier1**（`trace-stat-*`）、**Ddesc** 溢出小屬性列 | 同上；**tier2／tier3** 網頁通常缺區塊，多為 **手填** | 見下節「Atier2/3」說明 |
+| **`all_json.csv`** 內 **全等級技能／行跡敘述**（`desc_lv1`～`15`）、**`raw_html_lv*`** | **Hakush（api.hakush.in）歷史流程**、**HH** 或 **遊戲內手抄** 等；本資料夾預設為已對表完成之版本 | 詳見 `HH_extraction_guide.md` |
+| **`all_skill_silder.txt`**、`skill_slider_script.js` 內 **數值矩陣** | 依 **CSV 內可滑動數值** 與指南整理；與 Gachabase 單頁等級**無法**一一自動對齊 | 以本 repo 內檔案為準 |
+| **角色／素材圖** | `download_img.py` 依 Gachabase／log 規則抓取（cdn.gachabase.net 等） | 見腳本與 `materials_download_log.csv` |
+| **`trace_tiers_supplement.json`**（選用） | **本地手編**，非網址拉取 | 僅非空欄位覆寫 CSV／記憶體中的 tier 格 |
+
+**第三方網站聲明：** Gachabase、Hakush 等均非米哈遊官方，內容可能有誤差或更新延遲；**以最終遊戲內與你自行保存的 CSV／截圖為準**。
+
 ## 檔案說明
 
 | 檔案 | 說明 |

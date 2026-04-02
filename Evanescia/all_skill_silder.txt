@@ -1,0 +1,24 @@
+Basic ATK
+
+<span aria-hidden="false"><span>Deals Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a1">&nbsp;</span></span></span><span> of Evanescia's ATK to one designated enemy.</span></span>
+
+
+Skill
+
+<span aria-hidden="false"><span>Deals Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a2">&nbsp;</span></span></span><span> of Evanescia's ATK to one designated enemy and Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a3">&nbsp;</span></span></span><span> of Evanescia's ATK to adjacent targets. Additionally gains </span> <span style="color: #f29e38ff;"><span id="a4">&nbsp;</span></span><span> </span><span class="border-b"><span>Punchline</span></span><span> point(s).</span></span>
+
+
+Ultimate
+
+<span aria-hidden="false"><span>Deals Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a5">&nbsp;</span></span></span><span> of Evanescia's ATK to all enemies, then deals 5 instances of DMG, with each instance dealing Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a6">&nbsp;</span></span></span><span> of Evanescia's ATK to one random enemy target.</span></span>
+
+
+Talent
+
+<span aria-hidden="false"><span>Evanescia gains Elation equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a7">&nbsp;</span></span></span><span> of her CRIT DMG. When Evanescia gains Energy, she simultaneously gains an equal amount of "</span><span class="border-b"><span>Certified Banger</span></span><span>." When Evanescia gains "</span><span class="border-b"><span>Certified Banger</span></span><span>," she simultaneously gains an equal amount of Energy. The "</span><span class="border-b"><span>Certified Banger</span></span><span>" gained through this method in a single instance cannot exceed 100 points.<br/>After accumulating </span> <span style="color: #f29e38ff;"><span id="a8">&nbsp;</span></span><span> Energy, she consumes </span> <span style="color: #f29e38ff;"><span id="a9">&nbsp;</span></span><span> accumulated amount, and "Master Fox" launches </span><span class="border-b"><span>Follow-Up ATK</span></span><span>, dealing Physical DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a10">&nbsp;</span></span></span><span> of Evanescia's ATK to all enemies and regenerating </span> <span style="color: #f29e38ff;"><span id="a11">&nbsp;</span></span><span> Energy for Evanescia. When Evanescia possesses "</span><span class="border-b"><span>Certified Banger</span></span><span>":<br/>Using her Skill deals Physical </span><span class="border-b"><span>Elation DMG</span></span><span> equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a12">&nbsp;</span></span></span><span> to the attacked enemy target.<br/>Using her Ultimate deals Physical </span><span class="border-b"><span>Elation DMG</span></span><span> equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a13">&nbsp;</span></span></span><span> to all enemies and deals Physical </span><span class="border-b"><span>Elation DMG</span></span><span> equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a14">&nbsp;</span></span></span><span> to the enemy target randomly attacked by Ultimate. When Ultimate deals </span><span class="border-b"><span>Elation DMG</span></span><span>, it takes into account "</span><span class="border-b"><span>Certified Banger</span></span><span>" at least equal to Max Energy.<br/>"Master Fox's" </span><span class="border-b"><span>Follow-Up ATK</span></span><span> deals Physical </span><span class="border-b"><span>Elation DMG</span></span><span> equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a15">&nbsp;</span></span></span><span> of ATK to all enemies.</span></span>
+
+
+Elation Skill
+
+<span aria-hidden="false"><span>Deals Physical </span><span class="border-b"><span>Elation DMG</span></span><span> equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a16">&nbsp;</span></span></span><span> to all enemies and additionally gains </span> <span style="color: #f29e38ff;"><span id="a17">&nbsp;</span></span><span> point(s) of "</span><span class="border-b"><span>Certified Banger</span></span><span>".</span></span>
+
