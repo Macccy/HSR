@@ -1,0 +1,64 @@
+Basic ATK
+Basic ATK
+Single Target
+Lament Is the Dead Sea's Ripple
+Deals Quantum DMG equal to 70% of Castorice's Max HP to one designated enemy.
+Energy Regeneration
+-
+Weakness Break
+Single Target: 10
+Skill Points
++1
+
+Skill
+Skill
+Blast
+Silence Is the Butterfly's Caress
+Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 63% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 38% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Energy Regeneration
+-
+Weakness Break
+Single Target: 20 / Blast: 10
+Skill Points
+-
+
+Ultimate
+Ultimate
+Summon
+Death's Roar Becomes Renascence's Bell
+Summons the memosprite Dead Dragon and advances its action by 100%. At the same time, creates the Territory "Lost Netherland," which decreases all enemies' All-Type RES by 25%. If the DMG Boost effect from Castorice's Talent is active, the effect is extended to Dead Dragon. Dead Dragon has 165 SPD and a set Max HP equal to 100% of max "Stamen Nova."
+After Dead Dragon acts 3 times or when its HP is 0, it disappears and dispels the Territory "Lost Netherland."
+Energy Regeneration
+-
+Weakness Break
+-
+Skill Points
+-
+
+Talent
+Talent
+Enhance
+Desolation That Traverses Her Palms
+Max "Newbud" is based on all characters' levels on the battlefield. For each point of HP lost by all allies, Castorice gains 1 point of "Newbud." When "Newbud" reaches its maximum, Castorice's Ultimate can be used. When allies lose HP, Castorice's and Netherwing's DMG dealt increase by 25%. This effect can stack up to 3 times, lasting for 3 turn(s).
+When Netherwing is on the field, "Newbud" cannot be gained, and HP lost by all allies (except Netherwing) will be converted to an equal amount of HP for Netherwing.
+Energy Regeneration
+10
+Weakness Break
+-
+Skill Points
+-
+
+Technique
+Technique
+Wail, the Prelude to Demise
+After using Technique, enters the "Death Addle" state that lasts for 20 seconds. While "Death Addle" is active, enemies are unable to approach Castorice on their own.
+While in the "Death Addle" state, attacking will cause all enemies within range to enter combat. At the same time, summons the memosprite Dead Dragon. Dead Dragon starts with current HP equal to 50% of max "Stamen Nova." After entering battle, consumes 40% of all allies' current HP and advances Dead Dragon's action by 100%.
+After entering battle and before summoning Dead Dragon, Castorice gains "Stamen Nova" equal to 30% of maximum "Stamen Nova."
+Energy Regeneration
+-
+Weakness Break
+-
+Skill Points
+-

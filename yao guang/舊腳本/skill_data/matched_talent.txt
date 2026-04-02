@@ -1,0 +1,53 @@
+--- Talent ---
+Support
+The Sorrowing Body
+When using Skill, increases the target's CRIT Rate by 20%, lasting for 3 turn(s).
+Energy Regeneration: 5
+Weakness Break: Single Target: 10
+
+Found 3 matching elements in Talent.
+
+--- Talent ---
+Enhance
+Rosy-Fingered
+The memosprite Garmentmaker has an initial SPD equal to 35% of Aglaea's SPD and a Max HP equal to 66% of Aglaea's Max HP plus 720. While Garmentmaker is on the field, Aglaea's attacks inflict the target with the "Seam Stitch" state. After attacking enemies in the "Seam Stitch" state, further deals Additional DMG equal to 30% of Aglaea's ATK. "Seam Stitch" only takes effect on the most recently inflicted target.
+Energy Regeneration: 10
+Weakness Break
+Single Target: 10 / Blast: 5
+Weakness Break: Single Target: 10 / Blast: 5
+
+Found 3 matching elements in Talent.
+
+--- Talent ---
+AoE
+Busy as Tribbie
+After other ally characters use Ultimate, Tribbie launches a Follow-up ATK, dealing Quantum DMG equal to 18% of Tribbie's Max HP to all enemies. This effect can only be triggered 1 time per character, and the trigger count for other characters is reset when Tribbie uses her Ultimate. If the target was defeated before the Follow-up ATK is launched, launch a Follow-up ATK against enemy targets newly entering the battlefield instead.
+Energy Regeneration: -
+Weakness Break
+-
+Skill Points
+-
+Weakness Break: -
+Skill Points
+-
+
+Found 3 matching elements in Talent.
+
+--- Talent ---
+Enhance
+Desolation That Traverses Her Palms
+"Stamen Nova"'s maximum is equal to 100 times the sum of all characters' levels on the battlefield. For each point of HP lost by all allies, Castorice gains 1 point of "Stamen Nova." Increases Castorice's and Dead Dragon's DMG dealt by 20%. This effect can stack up to 3 times, lasting for 3 turn(s). When "Stamen Nova" reaches its maximum, Castorice's Ultimate can be used.
+When Dead Dragon is on the field, "Stamen Nova" cannot be gained, and for each point of HP lost by all allies (except Dead Dragon), Dead Dragon recovers equal amount of HP.
+Sanctuary of the Lunar Cocoon
+After obtaining Castorice or when Castorice is in the current team, receive the following effect: In battle, when an ally character receives a killing blow, all allies that received a killing blow in this action enter the "Lunar Cocoon" state. Characters in "Lunar Cocoon" delay becoming downed and can take 1 action normally. After the action, if they receive healing or have a Shield before their next turn, "Lunar Cocoon" is removed. Otherwise, they will be downed immediately. This effect can be triggered 1 time per battle.
+Energy Regeneration: -
+Weakness Break
+Single Target: 4
+Skill Points
+-
+Weakness Break: Single Target: 4
+Skill Points
+-
+
+Found 5 matching elements in Talent.
+

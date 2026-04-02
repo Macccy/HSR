@@ -1,0 +1,19 @@
+Basic ATK
+
+Deals Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a1">&nbsp;</span></span> of Ashveil's ATK to one designated enemy.
+
+
+Skill
+
+Marks one designated enemy target as "Bait," dealing Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a2">&nbsp;</span></span> of Ashveil's ATK. If the target is already marked as "Bait," additionally deals Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a3">&nbsp;</span></span> of Ashveil's ATK to the target, as well as recovers <span style="color: #f29e38ff;"><span id="a4">&nbsp;</span></span> Skill Point(s). When "Bait" exists on the field, all enemies' DEF is reduced by <span style="color: #f29e38ff;"><span id="a5">&nbsp;</span></span>.\nWhen "Bait" does not exist on the field, Ashveil immediately inflicts "Bait" on the enemy target with the lowest HP on the current field. The "Bait" state only applies to the most recently marked target.
+
+
+Ultimate
+
+Marks one designated enemy as "Bait," deals Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a6">&nbsp;</span></span> of Ashveil's ATK to them, then immediately launches enhanced Talent's Follow-Up ATK to them 1 time, and Ashveil gains <span style="color: #f29e38ff;"><span id="a7">&nbsp;</span></span> Charge.\nThis enhanced Talent's Follow-Up ATK does not consume Charge. When "Gluttony" is in possession, for every <span style="color: #f29e38ff;"><span id="a8">&nbsp;</span></span> stacks of "Gluttony" consumed, additionally deals 1 instance of Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a9">&nbsp;</span></span> of Ashveil's ATK. If this instance of Follow-Up ATK deals a killing blow to the target, it will continue to deal DMG to a new "Bait," until "Gluttony" becomes lower than <span style="color: #f29e38ff;"><span id="a10">&nbsp;</span></span> stacks. If all enemy targets currently on the field have been dealt killing blows, the enhanced Talent's Follow-Up ATK will immediately end.
+
+
+Talent
+
+Ashveil starts with <span style="color: #f29e38ff;"><span id="a11">&nbsp;</span></span> Charge(s), up to a max of <span style="color: #f29e38ff;"><span id="a12">&nbsp;</span></span>. After "Bait" is attacked by another ally target, Ashveil regenerates a fixed amount of <span style="color: #f29e38ff;"><span id="a13">&nbsp;</span></span> Energy, then consumes <span style="color: #f29e38ff;"><span id="a14">&nbsp;</span></span> Charge(s) to launch a Follow-Up ATK against "Bait," dealing Lightning DMG equal to <span style="color: #f29e38ff;"><span id="a15">&nbsp;</span></span> of Ashveil's ATK, and subsequently gaining <span style="color: #f29e38ff;"><span id="a16">&nbsp;</span></span> stack(s) of "Gluttony," stacking up to <span style="color: #f29e38ff;"><span id="a17">&nbsp;</span></span> time(s).
+

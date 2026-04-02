@@ -1,0 +1,7 @@
+{
+  "_comment": "複製為 trace_tiers_supplement.json。陣列共 3 格 = tier1～tier3。只有非空字串會寫入；第一格留 \"\" 可保留 Gachabase 已抓到的 Atier1/Btier1/Ctier1。",
+  "Adesc": ["", "在此填 A 行跡第二個小節點", "在此填 A 行跡第三個小節點"],
+  "Bdesc": ["", "", ""],
+  "Cdesc": ["", "", ""],
+  "Ddesc": ["", "", ""]
+}

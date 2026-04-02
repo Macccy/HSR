@@ -1,0 +1,56 @@
+--- Ultimate ---
+Support
+Ode to Caress and Cicatrix
+Regenerates Energy by 20% of Max Energy for one designated ally character and turns the target and their summon into "The Beatified." "The Beatified" have their CRIT DMG increased by an amount equal to 30% of Sunday's CRIT DMG plus 12%.
+At the start of Sunday's each turn, reduces the duration of "The Beatified" state by 1 turn, lasting for a total of 3 turn(s). And it only takes effect on the most recent target of the Ultimate (excluding Sunday himself). When Sunday becomes downed, "The Beatified" will also be dispelled.
+Energy Regeneration: 5
+Weakness Break: Single Target: 10
+
+Found 3 matching elements in Ultimate.
+
+--- Ultimate ---
+Enhance
+Dance, Destined Weaveress
+Summons the memosprite Garmentmaker. If Garmentmaker is already on the field, then restores its HP to max. Aglaea enters the "Supreme Stance" state and immediately takes action.
+While in the "Supreme Stance" state, Aglaea gains the SPD Boost stacks from Garmentmaker's Memosprite Talent, with each stack increasing her SPD by 15%. Enhances Basic ATK to "Slash by a Thousandfold Kiss," and cannot use Skill. Garmentmaker is immune to Crowd Control debuffs.
+A countdown appears on the Action Order, with its own SPD set at 100. Using Ultimate again when the countdown is on the Action Order will reset the countdown. When the countdown's turn starts, Garmentmaker self-destructs. When Garmentmaker disappears, Aglaea's "Supreme Stance" state is dispelled.
+Energy Regeneration: 10
+Weakness Break
+Single Target: 10 / Blast: 5
+Weakness Break: Single Target: 10 / Blast: 5
+
+Found 3 matching elements in Ultimate.
+
+--- Ultimate ---
+AoE
+Guess Who Lives Here
+Activates a Zone and deals Quantum DMG equal to 30% of Tribbie's Max HP to all enemies.
+While the Zone lasts, increases enemy targets' DMG taken by 30%. After an ally target attacks, for every 1 target hit, deals 1 instance of Quantum Additional DMG equal to 12% of Tribbie's Max HP to the target that has the highest HP among the hit targets.
+The Zone lasts for 2 turn(s). This duration decreases by 1 at the start of this unit's every turn.
+Energy Regeneration: -
+Weakness Break
+-
+Skill Points
+-
+Weakness Break: -
+Skill Points
+-
+
+Found 3 matching elements in Ultimate.
+
+--- Ultimate ---
+Summon
+Death's Roar Becomes Renascence's Bell
+Summons the memosprite Dead Dragon and advances its action by 100%. At the same time, creates the Territory "Lost Netherland," which decreases all enemies' All-Type RES by 20%. If the DMG Boost effect from Castorice's Talent is active, the effect is extended to Dead Dragon. Dead Dragon has 140 SPD and a set Max HP equal to 100% of max "Stamen Nova."
+After Dead Dragon acts 3 times or when its HP is 0, it disappears and dispels the Territory "Lost Netherland."
+Energy Regeneration: -
+Weakness Break
+Single Target: 4
+Skill Points
+-
+Weakness Break: Single Target: 4
+Skill Points
+-
+
+Found 3 matching elements in Ultimate.
+

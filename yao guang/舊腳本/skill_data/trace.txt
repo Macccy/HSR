@@ -1,0 +1,81 @@
+Bonus Ability
+BONUS ABILITY
+1. Haven in Palm
+When using Skill, dispels 1 debuff(s) from the target.
+2. Exalted Sweep
+When battle starts, Sunday regenerates 25 Energy.
+3. Rest Day's Longing
+Using Skill will not consume Skill Points. This effect can be triggered again after 2 turn(s).
+
+Bonus Ability
+BONUS ABILITY
+1. Haven in Palm
+When using Skill, dispels 1 debuff(s) from the target.
+2. Exalted Sweep
+When battle starts, Sunday regenerates 25 Energy.
+3. Rest Day's Longing
+Using Skill will not consume Skill Points. This effect can be triggered again after 2 turn(s).
+
+Bonus Ability
+BONUS ABILITY
+1. Haven in Palm
+When using Skill, dispels 1 debuff(s) from the target.
+2. Exalted Sweep
+When battle starts, Sunday regenerates 25 Energy.
+3. Rest Day's Longing
+If the Ultimate regenerates less than 40 Energy for the target, increases the Energy regenerated to 40.
+
+Bonus Ability
+BONUS ABILITY
+1. The Speeding Sol
+At the start of battle, if this unit's Energy is lower than 50%, regenerates this unit's Energy until 50%.
+2. Last Thread of Fate
+When Garmentmaker disappears, up to 1 stack(s) of the SPD Boost from the Memosprite Talent can be retained. When Garmentmaker is summoned again, gains the corresponding number of SPD Boost stacks.
+3. The Myopic's Doom
+While in "Supreme Stance," increases Aglaea and Garmentmaker's ATK by an amount equal to 720% of Aglaea's SPD plus 360% of Garmentmaker's SPD.
+
+Bonus Ability
+BONUS ABILITY
+1. Pebble at Crossroads?
+At the start of battle, Tribbie regenerates 30 Energy. After other ally targets attack, Tribbie regenerates 1.5 Energy for each target hit.
+2. Glass Ball with Wings!
+While the Zone lasts, Tribbie's Max HP increases by an amount equal to 9% of the sum of all ally characters' Max HP.
+3. Lamb Outside the Wall...
+After using Talent's Follow-up ATK, increases the DMG dealt by Tribbie by 72%. This effect can stack up to 3 time(s), lasting for 3 turn(s).
+
+Bonus Ability
+BONUS ABILITY
+1. Where The West Wind Dwells
+When Dead Dragon disappears, restores HP for all allies equal to 10% of Castorice's Max HP plus 250.
+2. Inverted Torch
+While Dead Dragon is not on the field, 100% of excess healing for each ally target will restore an equal amount of "Stamen Nova." While Dead Dragon is on the field, the excess healing will restore an equal amount of HP for Dead Dragon. Each restoration cannot exceed 15% of max "Stamen Nova" / Dead Dragon's Max HP.
+3. Dark Tide Contained
+While Castorice or Dead Dragon's respective HP is at 50% or higher, increases their respective SPD by 40%.
+
+Bonus Ability
+BONUS ABILITY
+1. Where The West Wind Dwells
+When Dead Dragon disappears, restores HP for all allies equal to 10% of Castorice's Max HP plus 250.
+2. Inverted Torch
+While Dead Dragon is not on the field, 100% of excess healing for each ally target will restore an equal amount of "Stamen Nova." While Dead Dragon is on the field, the excess healing will restore an equal amount of HP for Dead Dragon. Each restoration cannot exceed 15% of max "Stamen Nova" / Dead Dragon's Max HP.
+3. Dark Tide Contained
+While Castorice or Dead Dragon's respective HP is at 50% or higher, increases their respective SPD by 40%.
+
+Bonus Ability
+BONUS ABILITY
+1. Where The West Wind Dwells
+When Deathwing disappears, restores HP for all allies equal to 10% of Castorice's Max HP plus 250.
+2. Inverted Torch
+While Deathwing is not on the field, 100% of excess healing for each ally target will restore an equal amount of "Newbud." While Deathwing is on the field, the excess healing will restore an equal amount of HP for Deathwing. Each restoration cannot exceed 15% of max "Newbud" / Deathwing's Max HP.
+3. Contained Dark Tide
+While Castorice or Dead Dragon's respective HP is at 50% or higher, increases their respective SPD by 40%.
+
+Bonus Ability
+BONUS ABILITY
+1. Where The West Wind Dwells
+The lower the enemy's current HP, the higher the DMG dealt to it by Netherwing. When the enemy's HP is 30% or lower, the DMG Boost effect reaches its maximum, up to 40%.
+2. Inverted Torch
+While Castorice current HP is equal to 50% of her Max HP or higher, increases her SPD by 40%.
+3. Dark Tide Contained
+After ally targets (excluding Netherwing) receive healing, converts 100% of healed value into "Newbud." If Netherwing is on the battlefield, the healing is instead converted into Netherwing's HP. The converted value for each ally target cannot exceed 12% of "Newbud"'s maximum limit or Netherwing's Max HP. The accumulated conversion value resets after any unit takes action.
+

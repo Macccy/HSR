@@ -1,0 +1,24 @@
+Basic ATK
+
+Deals Quantum DMG equal to <span id="a1">&nbsp;</span> of Cipher's ATK to one designated enemy.
+
+
+Skill
+
+Consumes <span id="a2">&nbsp;</span> of all allies' current HP. Deals Quantum DMG equal to <span id="a3">&nbsp;</span> of Cipher's ATK to one designated enemy and Quantum DMG equal to <span id="a4">&nbsp;</span> of Cipher's ATK to adjacent targets.
+
+
+Ultimate
+
+Deals Quantum DMG equal to <span id="a5">&nbsp;</span> of Cipher's ATK to one designated enemy. Then, deals <u>True DMG</u> equal to <span id="a6">&nbsp;</span> of the currently recorded Talent value to one designated enemy, Quantum DMG equal to <span id="a7">&nbsp;</span> of Cipher's ATK to one designated enemy and its adjacent targets.
+
+
+Talent
+
+When there are no enemy targets in "Patron" state on the battlefield, Cipher immediately causes one enemy target with the highest Max HP on the battlefield to become the "Patron." When using Skill and Ultimate, the primary target becomes the "Patron." The "Patron" state only takes effect on the latest target.<br>After the "Patron" is attacked by other ally targets, Cipher immediately launches a <u>Follow-up ATK</u> against the "Patron," dealing Quantum DMG equal to <span id="a8">&nbsp;</span> of Cipher's ATK.
+
+
+Technique
+
+Obtains "Zagreus's Blessing" for <span id="a9">&nbsp;</span> second(s). During this time, Cipher will be undetectable by enemies and her movement speed increases by <unbreak><span id="a10">&nbsp;</span></unbreak>.
+

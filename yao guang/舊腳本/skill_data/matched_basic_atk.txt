@@ -1,0 +1,54 @@
+--- Basic ATK ---
+Single Target
+Gleaming Admonition
+Deals Imaginary DMG equal to 100% of Sunday's ATK to one designated enemy.
+Energy Regeneration: 5
+Weakness Break: Single Target: 10
+
+Found 3 matching elements in Basic ATK.
+
+--- Basic ATK ---
+Single Target
+Thorned Nectar
+Deals Lightning DMG equal to 100% of Aglaea's ATK to one designated enemy.
+Blast
+Slash by a Thousandfold Kiss
+Aglaea and Garmentmaker launch a Joint ATK on the target, respectively dealing Lightning DMG equal to 200% of Aglaea's ATK and 200% of Garmentmaker's ATK to the target. Also, deal Lightning DMG equal to 90% of Aglaea's ATK and 90% of Garmentmaker's ATK to adjacent targets.
+"Slash by a Thousandfold Kiss" cannot recover Skill Points.
+Energy Regeneration: 10
+Weakness Break
+Single Target: 10 / Blast: 5
+Weakness Break: Single Target: 10 / Blast: 5
+
+Found 6 matching elements in Basic ATK.
+
+--- Basic ATK ---
+Blast
+Hundred Rockets
+Deals Quantum DMG equal to 30% of Tribbie's Max HP to one designated enemy unit. Deals Quantum DMG equal to 15% of Tribbie's Max HP to adjacent targets.
+Energy Regeneration: -
+Weakness Break
+-
+Skill Points
+-
+Weakness Break: -
+Skill Points
+-
+
+Found 3 matching elements in Basic ATK.
+
+--- Basic ATK ---
+Single Target
+Lament Is the Dead Sea's Ripple
+Deals Quantum DMG equal to 50% of Castorice's Max HP to one designated enemy.
+Energy Regeneration: -
+Weakness Break
+Single Target: 4
+Skill Points
+-
+Weakness Break: Single Target: 4
+Skill Points
+-
+
+Found 3 matching elements in Basic ATK.
+

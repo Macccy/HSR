@@ -1,0 +1,45 @@
+Level 1: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 25% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 15% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 2: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 27% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 16% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 3: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 30% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 18% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 4: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 32% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 19% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 5: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 35% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 21% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 6: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 38% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 22% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 7: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 41% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 24% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 8: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 44% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 26% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 9: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 47% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 28% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 10: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 50% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 30% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 11: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 53% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 31% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 12: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 55% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 33% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 13: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 58% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 34% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 14: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 60% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 36% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+Level 15: Consumes 30% of all allies' current HP. Deals Quantum DMG equal to 63% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 38% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.

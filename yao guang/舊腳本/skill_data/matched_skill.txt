@@ -1,0 +1,61 @@
+--- Skill ---
+Support
+Benison of Paper and Rites
+Enables one designated ally character and their summon to immediately take action, and increases their DMG dealt by 30%. If the target has a summon, then additionally increases the DMG boost effect by 50%, lasting for 2 turn(s).
+After using Skill on The Beatified, recovers 1 Skill Point.
+When Sunday uses this ability on characters following the Path of Harmony, the "immediate action" effect cannot be triggered.
+Energy Regeneration: 5
+Weakness Break: Single Target: 10
+
+Found 3 matching elements in Skill.
+
+--- Skill ---
+Summon
+Rise, Exalted Renown
+Restores HP to Garmentmaker by 50% of its Max HP. If Garmentmaker is absent, summons the memosprite Garmentmaker, and this unit immediately takes action.
+Restore
+Rise, Exalted Renown
+Restores HP for the mannequin equal to 50% of Max HP and enhances them.
+Energy Regeneration: 10
+Weakness Break
+Single Target: 10 / Blast: 5
+Weakness Break: Single Target: 10 / Blast: 5
+
+Found 6 matching elements in Skill.
+
+--- Skill ---
+Support
+Where'd the Gifts Go
+Gains "Numinosity," lasting for 3 turn(s). This duration decreases by 1 at the start of this unit's every turn. While Tribbie has "Numinosity," increases all ally targets' All-Type RES PEN by 24%.
+Energy Regeneration: -
+Weakness Break
+-
+Skill Points
+-
+Weakness Break: -
+Skill Points
+-
+
+Found 3 matching elements in Skill.
+
+--- Skill ---
+Blast
+Silence Is the Butterfly's Caress
+Consumes 40% of all allies' current HP. Deals Quantum DMG equal to 50% of Castorice's Max HP to one designated enemy and Quantum DMG equal to 30% of Castorice's Max HP to adjacent targets.
+If current HP is insufficient, this ability will reduce HP to 1.
+If Dead Dragon is on the battlefield, this Skill becomes "Skeleclaw, the Doomdrake's Embrace" instead.
+AoE
+Skeleclaw, the Doomdrake's Embrace
+Consumes 50% of all allies' (except Dead Dragon) current HP. Castorice and Dead Dragon launch a Joint ATK on the target and deal Quantum DMG equal to 24% and 42% of Castorice's Max HP.
+If current HP is insufficient, using the ability will reduce HP to 1.
+Energy Regeneration: -
+Weakness Break
+Single Target: 4
+Skill Points
+-
+Weakness Break: Single Target: 4
+Skill Points
+-
+
+Found 6 matching elements in Skill.
+

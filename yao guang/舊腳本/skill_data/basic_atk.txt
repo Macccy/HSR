@@ -1,0 +1,10 @@
+Level 1: Deals Quantum DMG equal to 25% of Castorice's Max HP to one designated enemy.
+Level 2: Deals Quantum DMG equal to 30% of Castorice's Max HP to one designated enemy.
+Level 3: Deals Quantum DMG equal to 35% of Castorice's Max HP to one designated enemy.
+Level 4: Deals Quantum DMG equal to 40% of Castorice's Max HP to one designated enemy.
+Level 5: Deals Quantum DMG equal to 45% of Castorice's Max HP to one designated enemy.
+Level 6: Deals Quantum DMG equal to 50% of Castorice's Max HP to one designated enemy.
+Level 7: Deals Quantum DMG equal to 55% of Castorice's Max HP to one designated enemy.
+Level 8: Deals Quantum DMG equal to 60% of Castorice's Max HP to one designated enemy.
+Level 9: Deals Quantum DMG equal to 65% of Castorice's Max HP to one designated enemy.
+Level 10: Deals Quantum DMG equal to 70% of Castorice's Max HP to one designated enemy.
