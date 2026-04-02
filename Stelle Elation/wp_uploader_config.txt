@@ -1,0 +1,4 @@
+URL=https://genshinlab.com
+USERNAME=hsr555
+CSV=C:\Users\User\OneDrive\桌面\python\hsr\materials_download_log.csv
+DIR=C:\Users\User\OneDrive\桌面\python\hsr\img

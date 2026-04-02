@@ -1,0 +1,24 @@
+Basic ATK
+
+<span aria-hidden="false"><span>Deals Lightning DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a1">&nbsp;</span></span></span><span> of Trailblazer's ATK to one designated enemy.</span></span>
+
+
+Skill
+
+<span aria-hidden="false"><span>Deals Lightning DMG equal to </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a2">&nbsp;</span></span></span><span> of the Trailblazer's ATK to all enemies and gains </span> <span style="color: #f29e38ff;"><span id="a3">&nbsp;</span></span><span> point(s) of "</span><span class="border-b"><span>Certified Banger</span></span><span>."</span></span>
+
+
+Ultimate
+
+<span aria-hidden="false"><span>Gains </span> <span style="color: #f29e38ff;"><span id="a4">&nbsp;</span></span><span> </span><span class="border-b"><span>Punchline</span></span><span> point(s), increases the CRIT DMG of a designated ally by </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a5">&nbsp;</span></span></span><span> for </span> <span style="color: #f29e38ff;"><span id="a6">&nbsp;</span></span><span> turn(s), and dispels </span><span class="border-b"><span>Crowd Control debuffs</span></span><span> from them.<br/>If the target possesses an Elation Skill, they additionally gain </span> <span style="color: #f29e38ff;"><span id="a7">&nbsp;</span></span><span> point(s) of "</span><span class="border-b"><span>Certified Banger</span></span><span>" and immediately use their Elation Skill 1 time, taking a fixed amount of </span> <span style="color: #f29e38ff;"><span id="a8">&nbsp;</span></span><span> Punchline point(s) into account. If the enemy target is defeated before the Elation Skill is unleashed, the Elation Skill is unleashed on enemy targets that just entered combat instead.<br/>If the target does not possess an Elation Skill, their </span><span class="border-b"><span>action advances</span></span><span> by </span> <span style="color: #f29e38ff;"><span id="a9">&nbsp;</span></span><span>.</span></span>
+
+
+Talent
+
+<span aria-hidden="false"><span>After using an attack, regenerates </span> <span style="color: #f29e38ff;"><span id="a10">&nbsp;</span></span><span> Energy and gains </span> <span style="color: #f29e38ff;"><span id="a11">&nbsp;</span></span><span> </span><span class="border-b"><span>Punchline</span></span><span> point(s).<br/>When the Trailblazer holds "</span><span class="border-b"><span>Certified Banger</span></span><span>," their Skill additionally deals </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a12">&nbsp;</span></span></span><span> Lightning </span><span class="border-b"><span>Elation DMG</span></span><span> to all enemies. This DMG is calculated using the highest "</span><span class="border-b"><span>Certified Banger</span></span><span>" value among all allies.</span></span>
+
+
+Elation Skill
+
+<span aria-hidden="false"><span>Deals </span> <span style="color: #f29e38ff;"><span id="a13">&nbsp;</span></span><span> instances of DMG, with each instance dealing </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a14">&nbsp;</span></span></span><span> Lightning </span><span class="border-b"><span>Elation DMG</span></span><span> to one random enemy. Then, deals </span><span style="color: #f29e38ff;"> <span style="color: #f29e38ff;"><span id="a15">&nbsp;</span></span></span><span> Lightning </span><span class="border-b"><span>Elation DMG</span></span><span>, which is split evenly among all enemies.</span></span>
+
